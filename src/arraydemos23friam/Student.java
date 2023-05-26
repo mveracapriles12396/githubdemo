@@ -20,7 +20,7 @@ public class Student {
     public void setsId(String sId) {
         this.sId = sId;
     }
-
+     
     public String getsName() {
         return sName;
     }
